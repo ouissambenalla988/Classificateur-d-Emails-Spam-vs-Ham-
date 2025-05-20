@@ -1,4 +1,4 @@
-📧 Email Spam Classifier - Java/OpenNLP
+## 📧 Email Spam Classifier - Java/OpenNLP
 Détectez automatiquement les spams avec une précision de 92%
 
 🚀 Fonctionnalités clés
