@@ -1,43 +1,21 @@
-## 📧 Email Spam Classifier - Java/OpenNLP
-Détectez automatiquement les spams avec une précision de 92%
+# Email Spam Classifier
 
-🚀 Fonctionnalités clés
-Classification instantanée emails spam/ham
+![Java](https://img.shields.io/badge/Java-8%2B-blue)
+![OpenNLP](https://img.shields.io/badge/Apache_OpenNLP-2.3.1-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Interface simple (Java Swing)
+Application Java pour détecter automatiquement les emails indésirables (spam) avec une précision de 92%.
 
-Entraînement sur vos propres données
+## Fonctionnalités
 
-Modèles sauvegardables/réutilisables
+- 🎯 Classification spam/ham en temps réel
+- 📁 Entraînement sur datasets personnalisés
+- 💾 Sauvegarde/chargement des modèles
+- 🖥 Interface graphique simple (Java Swing)
+- 🔍 Prétraitement intelligent du texte
 
-⚙️ Installation
-Téléchargez le projet :
+## Installation
 
-bash
+1. Cloner le dépôt :
+```bash
 git clone https://github.com/ouissambenalla988/Classificateur-d-Emails-Spam-vs-Ham-.git
-Importez dans Eclipse/IntelliJ
-
-🖥️ Utilisation
-Placez vos emails dans :
-
-data/spam/ (pour les spams)
-
-data/ham/ (pour les emails légitimes)
-
-Lancez Main.java
-
-Cliquez sur "Train Model" pour entraîner
-
-Utilisez "Classify Email" pour tester
-
-📊 Résultats
-Précision : 92.23%
-
-Langues supportées : Français/Anglais
-
-📌 Exemple
-java
-Email: ouissambenalla.ia@gmail.com
-→ Classé comme SPAM (98% de confiance)
-Technos : Java 8 • Apache OpenNLP 2.0.0 • Swing
-Auteur : BENALLA Ouissam
