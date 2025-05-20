@@ -1,0 +1,7 @@
+data
+*.csv
+*.py
+*.json
+Rapport_Presentation
+EmailClassifier_Presentation.md
+EmailClassifier_Rapport.md
